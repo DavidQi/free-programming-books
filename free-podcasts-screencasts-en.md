@@ -221,7 +221,8 @@
 * [Screencast] - [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
 * [Screencast] - [TheNewBoston - Python Programming Tutorials - 2.x](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA)
 * [Screencast] - [Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx)
-
+* [Screencast] - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+* [Screencast] - [Fast Non-Standard Data Structures for Python](http://kmike.ru/python-data-structures/)
 
 ### React JS
 
